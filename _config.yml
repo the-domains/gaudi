@@ -1,0 +1,14 @@
+layout_spectrum: 0.7725281
+typography_spectrum: 0.6384744
+color:
+  saturation: 0.1034307
+  lightness: 0.8394838
+  brandStrength: 0.03226184
+  rhythmicContrast: 0.005735083
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Gaudi
