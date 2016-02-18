@@ -1,3 +1,7 @@
+name: Gaudi
+favicon: null
+layout_spectrum: 0.9928315
+typography_spectrum: 0.1774193
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Gaudi Clique
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1034307
-  brandStrength: 0.03226184
-  rhythmicContrast: 0.005735083
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  brandStrength: 0.03226184
   lightness: 0.8394838
-typography_spectrum: 0.1774193
-layout_spectrum: 0.9928315
-name: Gaudi
+  saturation: 0.1034307
+  rhythmicContrast: 0.005735083
+purpose: []
